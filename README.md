@@ -24,9 +24,13 @@ Undergraduate in Informatics Engineering of Sebelas Maret University and still l
 
 ### <b>📫 Get in Touch:</b>
 <ul>
-  <li>Email</li>
-  <li>Instagram</li>
+  <li><a href="mailto:bagusoki@student.uns.ac.id"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></li>
+  <li><a href="https://www.instagram.com/_okikkk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></li>
+  <li><a href="https://www.linkedin.com/in/bagusokiwn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></li>
 </ul>
 <hr>
 
-### Just Code It
+<p align="center">
+  <b>just code it</b>
+</p>
+
