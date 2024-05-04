@@ -1,6 +1,6 @@
 ### Hi, im okik!
 </br>
-
+Undergraduate diploma student of Sebelas Maret University that still learning about Web Development
 
 <!--
 **BagusOkiWN/bagusokiwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
