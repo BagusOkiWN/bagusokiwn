@@ -1,19 +1,32 @@
-### Hi, im okik! 
+### Hi, I'm okik! 🙌
+Undergraduate in Informatics Engineering of Sebelas Maret University and still learning about Web Development especially on Backend Development ☝
 <hr>
 
-Undergraduate diploma student of Sebelas Maret University that still learning about Web Development
+### <b>🔧 Tools:</b>
+<ol>
+  <li> VS Code</li>
+  <li> XAMPP</li>
+  <li> Postman</li>
+</ol>
 
-<!--
-**BagusOkiWN/bagusokiwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <b>🌱 Currently Learning:</b>
+<ul>
+  <li>Frontend Development: HTML, CSS, JS and Vue.js framework</li>
+  <li>Backend Development: PHP with Laravel framework and MySQL database</li>
+  <li>Version Control: GitHub and GitLab</li>
+</ul>
 
-Here are some ideas to get you started:
+### <b>🚀 Future Goals:</b>
+<ul>
+  <li>Mastering Backend Development</li>
+  <li>Mastering Golang 👀</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <b>📫 Get in Touch:</b>
+<ul>
+  <li>Email</li>
+  <li>Instagram</li>
+</ul>
+<hr>
+
+### Just Code It
