@@ -1,5 +1,6 @@
-### Hi, im okik! <br />
-
+### Hi, im okik! 
+<br />
+<hr>
 Undergraduate diploma student of Sebelas Maret University that still learning about Web Development
 
 <!--
